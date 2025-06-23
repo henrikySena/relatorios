@@ -35,6 +35,4 @@ O objetivo era propor uma avaliação controlada da infraestrutura de TI da pref
 
 ## 📌 Considerações
 
-Durante o processo de elaboração, também criei um material introdutório com o objetivo de sensibilizar os gestores sobre os riscos da falta de segurança da informação em ambientes públicos. Esse material não foi incluído neste repositório, mas pode ser compartilhado sob demanda.
-
----
+Durante o processo de elaboração, também foi desenvolvido um material introdutório com o objetivo de sensibilizar a gestão municipal sobre os riscos da falta de segurança da informação em ambientes públicos. Esse material não foi incluído neste repositório, mas pode ser compartilhado sob demanda.
