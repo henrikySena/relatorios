@@ -22,12 +22,14 @@ O objetivo era propor uma avaliação controlada da infraestrutura de TI da pref
 ## 📂 Arquivo Disponível
 
 - `escopo-pentest-ferraz.pdf` – Documento formal com a proposta de teste de intrusão, contendo:  
-  - Objetivos  
-  - Justificativa  
-  - Metodologia  
-  - Requisitos  
-  - Considerações legais e éticas  
-  - Recomendações iniciais
+  - Introdução
+  - Objetivo Geral
+  - Objetivos Específicos
+  - Metodologia Adotada
+  - Escopo Técnico
+  - Limitações e Restrições
+  - Entregáveis
+  - Considerações Finais
 
 ---
 
