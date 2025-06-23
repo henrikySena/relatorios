@@ -15,7 +15,7 @@ Estes documentos foram produzidos para fins acadêmicos e profissionais, sem exp
 
 - Documentar e compartilhar projetos e estudos técnicos elaborados em contexto profissional e acadêmico.  
 - Demonstrar conhecimento prático aplicado em segurança da informação e outras áreas correlatas.  
-- Disponibilizar material para referência pessoal e de outros profissionais interessados.
+- Disponibilizar material para referência pessoal e para outros profissionais interessados.
 
 ---
 
