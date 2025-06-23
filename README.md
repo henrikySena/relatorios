@@ -1,6 +1,6 @@
 # 📂 Repositório de Relatórios Técnicos
 
-Bem-vindo ao meu repositório de relatórios técnicos! Aqui compartilho documentos elaborados durante minha trajetória acadêmica e profissional, incluindo propostas, análises e planejamentos relacionados à segurança da informação.
+Bem-vindo ao meu repositório de relatórios técnicos! Aqui compartilho documentos elaborados durante minha trajetória acadêmica e profissional, incluindo propostas, análises, simulações e planejamentos relacionados à segurança da informação.
 
 ---
 
